@@ -61,4 +61,4 @@ I'm currently available for full-time Digital Project Manager positions. Feel fr
 📱 (915) 443-8570  
 📍 Cd. Juarez, Mexico (Remote work available)
 
-[View Full Resume →](https://docs.google.com/document/d/1SD2Y8SnJZiboXeX6b9CFImxM0UN21Blk/edit?usp=sharing&ouid=111335921945874122623&rtpof=true&sd=true)
+[View Full Resume →](https://github.com/abs73129/Portfolio/blob/0378c72e79d561230b17ee076fd811e34fd22658/AbelPCResume25.docx)
