@@ -1,4 +1,5 @@
 
+
 # Digital Project Manager Portfolio
 
 [![Digital Project Manager](https://img.shields.io/badge/Digital_Project_Manager-Portfolio-blue)](https://github.com/yourusername/digital-project-manager-portfolio)
@@ -46,12 +47,12 @@ My approach to digital project management follows a structured process that ensu
 
 | Job Requirement | My Experience | Evidence |
 |----------------|---------------|----------|
-| 1+ years managing digital web and creative products | 1+ years across education, healthcare, and retail | [Project Charters](projects), [Analytics Reports](projects) |
+| 1+ years managing digital web and creative products | 1+ years across education, healthcare, and retail | [Project Charters](https://drive.google.com/file/d/1CPARr5Jwvc1ffJMXqLft6TUwm0rOIj2C/view?usp=sharing), [Analytics Reports](https://drive.google.com/file/d/1RyBOh3hTcBIzhPw0kC4dYkVGZ_ziX8Tn/view?usp=sharing) |
 | Experience with display ad and website production | Facebook/Instagram campaigns increasing inquiries by 30% | [Social Media Campaigns](projects/ingles-practico-summer-program/social-media-campaigns) |
-| Google Suite products experience | Developed documentation templates and tracking systems | [Google Sheets Template](workflows/google-sheets-tracking-template.md) |
+| Google Suite products experience | Developed documentation templates and tracking systems | [Google Sheets Template](https://docs.google.com/spreadsheets/d/1DDqDwp_H1rMDZZxwF3h8vt1TbwBLnuo8/edit?usp=drive_link&ouid=111335921945874122623&rtpof=true&sd=true) |
 | Marketing copywriting experience | Created ad copy for multiple campaigns | [Campaign Documentation](projects/veterinaria-wellness-program/marketing-campaigns) |
-| Project scoping and scheduling | Managed timelines for multiple concurrent projects | [Project Charters](projects) |
-| Quality assurance processes | Implemented QA checklists and testing protocols | [QA Test Results](projects/veterinaria-wellness-program/booking-payment-integration/qa-test-results.md) |
+| Project scoping and scheduling | Managed timelines for multiple concurrent projects | [Project Charters](https://drive.google.com/file/d/1wPR1GkhDODUSgJuGYZvoDJKtCKY0jzeC/view?usp=sharing) |[Gnatt Chart](https://drive.google.com/file/d/1Bqq-RI8krEsGaAXgKY4cGvuwEUmFAgjZ/view?usp=sharing) |
+| Quality assurance processes | Implemented QA checklists and testing protocols | [QA Test Results](https://drive.google.com/file/d/1kQhqoaB2uurTLTSCYpAmq9FrpZfxKRW-/view?usp=sharing) |
 
 ## Get in Touch
 
@@ -61,4 +62,6 @@ I'm currently available for full-time Digital Project Manager positions. Feel fr
 📱 (915) 443-8570  
 📍 Cd. Juarez, Mexico (Remote work available)
 
-[View Full Resume →](https://github.com/abs73129/Portfolio/blob/0378c72e79d561230b17ee076fd811e34fd22658/AbelPCResume25.docx)
+[View Full Resume →](https://drive.google.com/file/d/1aZfna83pjHETrFTw8MwiIEqpYAT6BYQw/view?usp=sharing)
+
+---
